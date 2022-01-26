@@ -1,0 +1,7 @@
+###
+GET https://localhost:5001/api/customers/
+###
+GET https://localhost:5001/api/customers/?country=Germany
+Accept: application/xml
+###
+GET https://localhost:5001/api/customers/?country=ALFKI
